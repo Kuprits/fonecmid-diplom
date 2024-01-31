@@ -54,6 +54,14 @@
     </pages>
   </help>
   <dataLockControlMode>Managed</dataLockControlMode>
+  <recordPresentation>
+    <key>ru</key>
+    <value>Файлы в рабочем каталоге</value>
+  </recordPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value>Файлы в рабочем каталоге</value>
+  </listPresentation>
   <resources uuid="1026fbcb-acd8-40dc-b638-6e02c6378c55">
     <name>Путь</name>
     <synonym>

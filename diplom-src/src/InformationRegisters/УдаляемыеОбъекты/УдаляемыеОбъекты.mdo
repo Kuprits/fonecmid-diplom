@@ -48,6 +48,14 @@
     <maxValue xsi:type="core:UndefinedValue"/>
   </standardAttributes>
   <dataLockControlMode>Managed</dataLockControlMode>
+  <recordPresentation>
+    <key>ru</key>
+    <value>Удаляемые объекты</value>
+  </recordPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value>Удаляемые объекты</value>
+  </listPresentation>
   <resources uuid="2b37c085-7c70-4004-93d3-24418b7b3ef2">
     <name>ВремяБлокировки</name>
     <synonym>
