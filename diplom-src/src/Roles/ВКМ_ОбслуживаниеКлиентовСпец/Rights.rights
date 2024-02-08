@@ -2914,17 +2914,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Report.ВКМ_ВыработкаСпециалиста</name>
-		<right>
-			<name>Use</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.Контрагенты.TabularSection.ПриобретеннаяНоменклатура</name>
 		<right>
 			<name>Edit</name>
